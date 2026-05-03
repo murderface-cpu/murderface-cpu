@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="30"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
   <h1>Hi, I'm Bruce 👋</h1>
   <h3>Full-Stack & Backend Developer | APIs, Web Scraping, Automation, AI</h3>
 </div>
