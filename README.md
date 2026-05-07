@@ -63,12 +63,12 @@ I'm committed to designing **scalable and maintainable solutions** across the st
        width="48%" 
        style="margin-right: 10px;"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murderface-cpu&layout=compact&langs_count=5&theme=gotham&hide_border=true" 
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=murderface-cpu&layout=compact&theme=github_dark" 
        alt="Top Languages" 
        width="48%"/>
 
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=murderface-cpu&color=blueviolet" alt="Profile Views" style="margin-top: 15px;"/>
+  <img src="https://komarev.com/ghpvc/?username=murderface-cpu&color=blueviolet" alt="Profile Views" style="margin-top: 15px"/>
 </div>
 
 ---
