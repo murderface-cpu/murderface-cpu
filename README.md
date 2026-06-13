@@ -17,7 +17,6 @@ My work spans:
 * 🌍 **Impact-Driven Technology**: Developing platforms that support education, sustainability, agriculture, and underserved communities.
 * ⚙️ **Backend Systems & APIs**: Designing scalable services, integrations, and high-performance application architectures.
 * 🤖 **Automation & Intelligence Gathering**: Building bots, monitoring systems, web scrapers, and automated decision-support tools.
-* 🚦 **Smart Infrastructure & Mobility**: Exploring intelligent transportation, geospatial analytics, and real-time monitoring systems.
 
 ---
 
