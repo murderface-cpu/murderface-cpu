@@ -92,7 +92,6 @@ Whether it's training forecasting models, building autonomous agents, designing 
 * 🤖 AI agents and reasoning systems
 * 📊 Predictive analytics and forecasting platforms
 * 🌍 Social-impact and civic technology projects
-* 🚦 Intelligent transportation and monitoring systems
 * 🔍 Data collection, automation, and intelligence platforms
 
 ---
